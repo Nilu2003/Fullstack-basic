@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <h1>welcome to frontend</h1>
+      <h1>welcome to frontend to coonect backend</h1>
       <p>jokes:{Jokes.length}</p>
 
       {
